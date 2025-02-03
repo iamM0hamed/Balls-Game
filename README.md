@@ -20,7 +20,7 @@ A simple graphical project to visualize bouncing balls using **C++** and **SFML 
 ### **Steps to Set Up**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/BallsVisualization.git
+  git@github.com:iamM0hamed/Balls-Game.git
    
 2. **Open the Project in Visual Studio**
    - Launch **Visual Studio 2022**.
