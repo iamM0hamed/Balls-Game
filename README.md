@@ -14,7 +14,7 @@ A simple graphical project to visualize bouncing balls using **C++** and **SFML 
 ## 🛠️ Setup and Installation
 
 ### **Prerequisites**
-- Visual Studio 2022
+- Visual Studio 2022 or any IDE
 - SFML 3.0.0 ([Download here](https://www.sfml-dev.org/download.php))
 
 ### **Steps to Set Up**
@@ -63,3 +63,5 @@ A simple graphical project to visualize bouncing balls using **C++** and **SFML 
 5. **Build and Run the Project**
    - Build the project by selecting **Build > Build Solution** or pressing `Ctrl + Shift + B`.
    - To run the project, press `Ctrl + F5` or select **Debug > Start Without Debugging**.
+     
+6.**Do not forget to change the ISO to C++17 or heigher**
